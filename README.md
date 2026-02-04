@@ -1,4 +1,4 @@
-# Welcome to Github
+# Welcome to Github :elephant:
 ## Creating an account
 
 You can create a personal Github account following the [directions here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account). 
