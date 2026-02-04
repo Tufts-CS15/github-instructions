@@ -8,8 +8,17 @@ You can create a personal Github account following the [directions here](https:/
 
 ## Starting an assignment
 
-Links for accessing each assignment will be posted on Piazza. 
+Links for accessing each assignment will be posted on Piazza. However, you can practice with the CS15 Starter Project which you can find [at this link](https://classroom.github.com/a/rFkH85E7).
+
+Selecting that link will allow you to create a new assignment. You can then clone the assignment to your halligan account and run the project setup script from your repo as per normal. 
+
+> [!NOTE]
+> Typically, project repoositories will contain a `.gitignore` file and a starter `README`. You need to add the rest of the files! 
 
 ## Using git during your assignment
-## Adding to your readme!
+## Adding to your readme
+
+> [!IMPORTANT]
+> You need to make mention of your repository in your README! If you do not, you will NOT recieve credit. 
+
 ## Turning in to Gradescope
