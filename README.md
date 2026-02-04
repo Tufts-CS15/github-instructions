@@ -22,3 +22,5 @@ Selecting that link will allow you to create a new assignment. You can then clon
 > You need to make mention of your repository in your README! If you do not, you will NOT recieve credit. 
 
 ## Turning in to Gradescope
+
+<img width="827" height="687" alt="image" src="https://github.com/user-attachments/assets/c6a50b1b-783f-436d-9574-cba51e714b0f" />
