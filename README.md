@@ -20,11 +20,11 @@ Links for accessing each assignment will be posted on Piazza. However, you can p
 
 Selecting that link will allow you to create a new assignment. You will then get an invitation (accessible through your email or Github) to collaborate with CS15:
 
-<img width="623" height="705" alt="image" src="https://github.com/user-attachments/assets/9ee46d3e-67d9-41ca-94aa-37f3f6cde5c5" />
+<img width="311" height="352" alt="image" src="https://github.com/user-attachments/assets/9ee46d3e-67d9-41ca-94aa-37f3f6cde5c5" />
 
 After you accept the invite, you can navigate to the project and clone it you your halligan account by copying the clone ssh command:
 
-<img width="676" height="410" alt="image" src="https://github.com/user-attachments/assets/a88ff313-0d69-4171-bf35-1ebdce66cc78" />
+<img width="338" height="205" alt="image" src="https://github.com/user-attachments/assets/a88ff313-0d69-4171-bf35-1ebdce66cc78" />
 
 You can then clone the assignment to your halligan account and setup your project. For instance, for metrosim you would run the command (replacing `csmagnano` with your Github username:
 
