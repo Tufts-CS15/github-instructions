@@ -20,7 +20,7 @@ Links for accessing each assignment will be posted on Piazza. However, you can p
 
 Selecting that link will allow you to create a new assignment. You will then get an invitation (accessible through your email or Github) to collaborate with CS15:
 
-<img width="678" height="723" alt="image" src="https://github.com/user-attachments/assets/750af04e-672a-4ccd-9f72-5174b489a4e1" />
+<img width="623" height="705" alt="image" src="https://github.com/user-attachments/assets/9ee46d3e-67d9-41ca-94aa-37f3f6cde5c5" />
 
 After you accept the invite, you can navigate to the project and clone it you your halligan account by copying the clone ssh command:
 
