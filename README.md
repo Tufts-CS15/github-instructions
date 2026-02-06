@@ -4,7 +4,7 @@
 You can create a personal Github account following the [directions here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account). 
 
 > [!NOTE]
-> It is reccomended that you use  apersonal email address, not your Tufts email address as your accounts primary email so that you can use your Github account after graduatation. You can then add your Tufts email [as an additional email](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/adding-an-email-address-to-your-github-account) if desired.
+> It is reccomended that you use a personal email address, not your Tufts email address as your accounts primary email so that you can use your Github account after graduatation. You can then add your Tufts email [as an additional email](https://docs.github.com/en/account-and-profile/how-tos/email-preferences/adding-an-email-address-to-your-github-account) if desired.
 
 ### Accessing your account on Halligan
 
@@ -57,7 +57,7 @@ Note that you only need to specify `origin main` on your first push.
 
 You're now all set to go! Add your changes and new files, make commits, and push! You now have an easy way to check your progress, save your work, redo and undo changes, etc. If you are working from multiple locations (this will matter much more for the group project `gerp`) you should make sure to run `git pull` before you start editing files each time. 
 
-> [!NOTE]
+> [!WARNING]
 > A common mistake is to forget to add files with `git add`. You need to `add` any new files or files that you have edited before making a commit. It is a good idea to get into the habit of running `git status` to check which local changes are staged before commiting. 
 
 We reccomend you consider making a commit whenever:
@@ -76,4 +76,15 @@ If you decide to use git, you will recieve 2 bonus points on your assignment. In
 
 ## Turning in to Gradescope
 
-<img width="827" height="687" alt="image" src="https://github.com/user-attachments/assets/c6a50b1b-783f-436d-9574-cba51e714b0f" />
+When turning your project into Gradescope, you can now use the Github option:
+
+<img width="413" height="343" alt="image" src="https://github.com/user-attachments/assets/c6a50b1b-783f-436d-9574-cba51e714b0f" />
+
+The first time you submit to Gradescope via github, you will need to authorize your Github account. You may also need to go into your Github account settings under `Settings -> Integrations -> Applications` and request/grant acccess for `Tufts-CS15`:
+
+<img width="575" height="232" alt="image" src="https://github.com/user-attachments/assets/2e145f5c-7be9-4b74-8619-2c66bef095c2" />
+
+You can then select the repository and branch (most likely `main`) that you want to submit. 
+
+> [!IMPORTANT]
+> Make sure you push your changes before submitting!
