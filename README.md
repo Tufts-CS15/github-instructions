@@ -23,16 +23,20 @@ Links for accessing each assignment will be posted on Piazza. However, you can p
 
 Selecting that link will allow you to create a new assignment. 
 
-### Access Denied Error
+#### Access Denied Error
 
 You may get a "Repository Access Issue" when accessing your assignment:
 
-<img width="1057" height="526" alt="image" src="https://github.com/user-attachments/assets/7a38a4e8-bf3c-4041-be36-a060010b287c" />
+<img width="526" height="238" alt="image" src="https://github.com/user-attachments/assets/7a38a4e8-bf3c-4041-be36-a060010b287c" />
 
-
-You will then get an invitation (accessible through your email or Github) to collaborate with CS15:
+If this occurs check your email and Github notifications.
+You should have gotten an invitation (accessible through your email or Github) to collaborate with CS15:
 
 <img width="311" height="352" alt="image" src="https://github.com/user-attachments/assets/9ee46d3e-67d9-41ca-94aa-37f3f6cde5c5" />
+
+If you cannot find the invite or still can't access the repo after accepting it, please make a Piazza post detailing your issue.
+
+#### Cloning Locally
 
 After you accept the invite, you can navigate to the project and clone it you your halligan account by copying the clone ssh command:
 
