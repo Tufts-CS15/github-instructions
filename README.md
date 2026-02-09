@@ -1,4 +1,7 @@
 # Welcome to Github :elephant:
+
+This readme contains instructions for using Github with Tufts CS15. 
+
 ## Creating an account
 
 You can create a personal Github account following the [directions here](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account). 
@@ -18,7 +21,16 @@ Should `.git` files are excluded from SFTP? Do we want to only talk about Hallig
 
 Links for accessing each assignment will be posted on Piazza. However, you can practice with the CS15 Starter Project which you can find [at this link](https://classroom.github.com/a/rFkH85E7).
 
-Selecting that link will allow you to create a new assignment. You will then get an invitation (accessible through your email or Github) to collaborate with CS15:
+Selecting that link will allow you to create a new assignment. 
+
+### Access Denied Error
+
+You may get a "Repository Access Issue" when accessing your assignment:
+
+<img width="1057" height="526" alt="image" src="https://github.com/user-attachments/assets/7a38a4e8-bf3c-4041-be36-a060010b287c" />
+
+
+You will then get an invitation (accessible through your email or Github) to collaborate with CS15:
 
 <img width="311" height="352" alt="image" src="https://github.com/user-attachments/assets/9ee46d3e-67d9-41ca-94aa-37f3f6cde5c5" />
 
