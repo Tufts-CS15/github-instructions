@@ -23,7 +23,7 @@ Links for accessing each assignment will be posted on Piazza. However, you can p
 
 Selecting that link will allow you to create a new assignment. 
 
-#### Access Denied Error
+#### If You See Access Denied
 
 You may get a "Repository Access Issue" when accessing your assignment:
 
