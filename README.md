@@ -14,8 +14,8 @@ You can create a personal Github account following the [directions here](https:/
 It is reccomended that you setup an ssh key to easily authenticate on the halligan server.
 You can do this by following the instructions [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key) for `Generating a new SSH key` and `Adding your SSH key to the ssh-agent`, then adding the SSH key to your Github account using [these instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account).
 
-### TODO Update SFTP?
-Should `.git` files are excluded from SFTP? Do we want to only talk about Halligan, or mention that students can clone on their local machines and then sync to Halligan as an alternative.
+> [!NOTE]
+> If you followed the [VCCode SFTP Setup Instructions](https://www.cs.tufts.edu/comp/15/reference/system_setup/vscode_setup.pdf) and have setup your SFTP config file according to our specifications, you should already be all set. If you created your own SFTP config or are using one from another course, make sure that `.*` or `.git` have been added to the `ignore` list in your config. 
 
 ## Starting an assignment
 
