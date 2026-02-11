@@ -38,7 +38,7 @@ If you cannot find the invite or still can't access the repo after accepting it,
 
 #### Cloning Locally
 
-After you accept the invite, you can navigate to the project and clone it you your halligan account by copying the clone ssh command:
+After you accept the invite you can ssh into Halligan, navigate to where you want your project directory,  and clone it you your halligan account by copying the clone ssh command:
 
 <img width="338" height="205" alt="image" src="https://github.com/user-attachments/assets/a88ff313-0d69-4171-bf35-1ebdce66cc78" />
 
